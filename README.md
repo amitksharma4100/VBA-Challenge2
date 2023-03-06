@@ -7,7 +7,7 @@ Objective:  Objective of this project was to create a VBA script that can automa
 3. Calculate and summarize percent change
 4. Tabulate total volume of each stock
 
-Results:  All of the results can be regenerated via running the attached excel script.  Screenshot of the data is included as separate file in the repository
+Results:  All of the results can be regenerated via running the attached excel script.  Screenshots of the data is included as separate file in the repository.  Note that screenshots of all of the years (2018, 2019 and 2020) are included in one file.  
 
 
 
