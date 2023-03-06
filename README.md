@@ -7,7 +7,7 @@ Objective:  Objective of this project was to create a VBA script that can automa
 3. Calculate and summarize percent change
 4. Tabulate total volume of each stock
 
-Results:  All of the results can be regenerated via running the attached excel script.  Screenshots of the data is included as separate file in the repository.  Note that screenshots of all of the years (2018, 2019 and 2020) are included in one file.  
+Results:  All of the results can be regenerated via running the attached excel script.  Screenshot of the data is included as separate file in the repository. Please note that the summary table with the data for opening and closing price of various stocks is placed two column to the right of the data table so as to make it easy to read.  Similarly, Challenge solution is one column to the right of the summary table so as to make it easy for the reader.  Otherwise, it starts to look like a mish mash of whole bunch of data, if I try to immitate the screenshots shared with the homework.  I think data presentation so it is attractive to a reader is also criticial for this exercise.
 
 
 
